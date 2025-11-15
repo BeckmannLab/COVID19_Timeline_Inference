@@ -1,0 +1,5 @@
+# Code for Thompson *et al* (2025) timeline inference manuscript
+
+Future home of the code release for Thompson *et al* (2025),
+"Defining, characterizing, and validating a novel biological clock for
+COVID-19.", manuscript currently under review.
